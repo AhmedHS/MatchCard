@@ -14,9 +14,13 @@ A package that implements multiple data types (i.e List, Stack, Queue) to simula
 - When the deck pile is empty, it is repopulated with the faceup pile
 - The player to place all their cards down first is the winner
 
-## Example Output
+## Compiling
 
-'Welcome to MATCH
+Before running code please ensure "VC++ 2015.3 v140 toolset (x86,x64)" is installed.
+
+## Example Output
+'
+Welcome to MATCH
 How many players will be in the game?
 2
 Please enter the maximum card rank you would like to play with:
@@ -71,4 +75,5 @@ Player 2 yells Last-card!
 It is Player 1's turn
 Player 1 found a match! They played Ace of Hearts
 Player 1 has crushed their enemies in MATCH (not even close)
-Press any key to continue . . .'
+Press any key to continue . . .
+'
