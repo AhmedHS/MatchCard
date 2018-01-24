@@ -19,7 +19,7 @@ A package that implements multiple data types (i.e List, Stack, Queue) to simula
 Before running code please ensure "VC++ 2015.3 v140 toolset (x86,x64)" is installed.
 
 ## Example Output
-'
+```
 Welcome to MATCH
 How many players will be in the game?
 2
@@ -76,4 +76,4 @@ It is Player 1's turn
 Player 1 found a match! They played Ace of Hearts
 Player 1 has crushed their enemies in MATCH (not even close)
 Press any key to continue . . .
-'
+```
